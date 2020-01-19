@@ -141,7 +141,7 @@ which cou can safely ignore for the moment.
  * Create a pull request (d)
 
 Your repositories are now set up and you are ready to
-[create your first pull request](/creating-a-pull-request).
+[submit your first pull request](/submitting-a-pull-request).
 
 [pro-git]: https://git-scm.com/book/en/v2
 [pro-github]: https://git-scm.com/book/en/v2/GitHub-Account-Setup-and-Configuration
