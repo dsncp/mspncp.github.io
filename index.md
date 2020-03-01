@@ -45,7 +45,7 @@ discuss your proposal.
 {% endfor %}
 </ul>
 
-### Code of Conduct 
+### Code of Conduct
 
 The OpenSSL Project is committed to fostering a welcoming community.
 For more details, please view our [Code of Conduct](/CODE_OF_CONDUCT).
