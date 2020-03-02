@@ -19,7 +19,7 @@ remote_theme: dsncp/just-the-docs
 title: The OpenSSL Project Pages
 description: This site describes the development process for OpenSSL on GitHub
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://mspncp.github.io"
+url: "https://dsncp.github.io/mspncp.github.io"
 
 permalink: pretty
 exclude: ["node_modules/", "*~", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"]
